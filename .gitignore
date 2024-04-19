@@ -1,9 +1,1 @@
-Data/sample.log
-Data/sensor_data.csv
-Data/davis2home.txt
-Data/davis16.txt
-Data/home2physicsnight.txt
-Data/physics2stanley.txt
-Data/physics15.txt
-Data/stanley2davis.txt
-Data/stanley9.txt
+Data/*
